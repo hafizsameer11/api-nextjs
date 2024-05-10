@@ -1,4 +1,4 @@
-/* Template Name: Appgen - App & Saas Landing Page Template
+/* Template Name: inUtil Labs - App & Saas Landing Page Template
    Author: Shreethemes
    Website: http://shreethemes.in
    Email: shreethemes@gmail.com

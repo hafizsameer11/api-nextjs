@@ -69,7 +69,7 @@ const Footer = () => {
         <div className="row justify-content-center">
           <div className="col-12 text-center">
             <p className="mb-0 footer-text para-desc mx-auto">
-              © <span className="text-reset">Appgen</span>. Design with{" "}
+              © <span className="text-reset">inUtil Labs</span>. Design with{" "}
               <i className="mdi mdi-heart text-danger" /> by{" "}
               <a
                 href="http://shreethemes.in"

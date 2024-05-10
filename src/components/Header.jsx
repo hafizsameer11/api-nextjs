@@ -41,12 +41,7 @@ const Header = () => {
           <li className="has-submenu">
             <a href="#pricing">Pricing</a>
           </li>
-          <li className="has-submenu">
-            <a href="#review">Testimonial</a>
-          </li>
-          <li className="has-submenu">
-            <a href="#blogs">Blog &amp; News</a>
-          </li>
+     
           <li className="has-submenu">
             <a href="#contact">Contact</a>
           </li>

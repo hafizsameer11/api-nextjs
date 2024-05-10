@@ -295,7 +295,7 @@ const Pricing = () => {
                 data-feather="help-circle"
                 className="fea icon-ex-md text-primary me-2"
               />{" "}
-              How our <span className="text-primary">Appgen</span> work ?
+              How our <span className="text-primary">inUtil Labs</span> work ?
             </h6>
             <p className="answer text-muted mt-3 mb-0">
               Due to its widespread use as filler text for layouts,
@@ -346,7 +346,7 @@ const Pricing = () => {
                 data-feather="help-circle"
                 className="fea icon-ex-md text-primary me-2"
               />{" "}
-              Is <span className="text-primary">Appgen</span> safer to use with my
+              Is <span className="text-primary">inUtil Labs</span> safer to use with my
               account ?
             </h6>
             <p className="answer text-muted mt-3 mb-0">

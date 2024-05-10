@@ -12,7 +12,7 @@ const HeroSection = () => {
         <div className="col-lg-12 text-center mt-0 mt-md-5 pt-0 pt-md-5">
           <div className="title-heading margin-top-100">
             <h1 className="display-4 fw-bold mb-3">
-              We're Creating <span className="text-primary">Solutions...</span>
+              We&apos;re Creating <span className="text-primary">Solutions...</span>
             </h1>
             <p className="para-desc mx-auto text-muted">
               Launch your campaign and benefit from our expertise on designing and

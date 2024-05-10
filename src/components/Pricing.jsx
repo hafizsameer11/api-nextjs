@@ -315,7 +315,7 @@ const Pricing = () => {
               What is the main process open account ?
             </h6>
             <p className="answer text-muted mt-3 mb-0">
-              If the distribution of letters and 'words' is random, the reader
+              If the distribution of letters and &apos;words&apos; is random, the reader
               will not be distracted from making a neutral judgement on the visual
               impact
             </p>
@@ -350,9 +350,9 @@ const Pricing = () => {
               account ?
             </h6>
             <p className="answer text-muted mt-3 mb-0">
-              The most well-known dummy text is the 'Lorem Ipsum', which is said
+              The most well-known dummy text is the &apos;Lorem Ipsum&apos;, which is said
               to have originated in the 16th century. Lorem Ipsum is composed in a
-              pseudo-Latin language which more or less corresponds to 'proper'
+              pseudo-Latin language which more or less corresponds to &apos;proper&apos;
               Latin.
             </p>
           </div>
